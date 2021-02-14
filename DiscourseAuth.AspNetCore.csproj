@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <Authors>Jessica Hamilton</Authors>
+    <Description>ASP.NET Core authentication middleware using Discourse's SSO provider.</Description>
+    <Copyright>Copyright (c) 2021 Jessica Hamilton</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/jessicah/DiscourseAuthentication</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jessicah/DiscourseAuthentication.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>discourse sso authentication</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
